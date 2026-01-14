@@ -5,7 +5,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ## 👋 About Me
-Hi, I'm **[YOUR NAME]**.
+Hi, I'm Florent LE NY.
 This repository showcases my journey in **Deep Learning**, featuring end-to-end implementations of modern neural architectures. 
 I focus on building reproducible pipelines, from **Data Engineering** and **EDA** to **Model Deployment** and **Evaluation**.
 
