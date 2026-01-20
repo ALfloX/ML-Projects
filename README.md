@@ -17,7 +17,7 @@ Here is a curated list of projects covering **NLP**, **Computer Vision**, **Audi
 | :--- | :--- | :--- | :--- |
 | 🤖 **Modern NLP** | [**Machine Translation**](./machine_translation_transformer.ipynb) | **Transformers**, Attention Mechanism | Implemented "Attention is All You Need" architecture for En-Fr translation. |
 | 🖼️ **Vision** | [**Image Denoising**](./image_denoising.ipynb) | **CNN**, Autoencoder (U-Net style) | Removed Gaussian noise from STL10 images using convolutional reconstruction. |
-| 🎨 **GenAI** | [**GAN Image Generation**](./image_generation_GAN.ipynb) | **DCGAN** (Deep Convolutional GAN) | Trained adversarial networks (Generator vs Discriminator) to synthesize MNIST digits. |
+| 🎨 **GenAI** | [**GAN Image Generation**](./image_generation_GAN.ipynb) | **GAN** (Deep Convolutional GAN) | Trained adversarial networks (Generator vs Discriminator) to synthesize MNIST digits. |
 | 🎵 **Audio** | [**Audio Classification**](./speech_classification.ipynb) | **1D-CNN**, Signal Processing | End-to-end pipeline to classify Music vs. Speech signals from raw waveforms. |
 | 📜 **Classic NLP** | [**Text Generation**](./text_generation_LSTM.ipynb) | **LSTM**, RNN | Character-level language modeling with temperature sampling for creative writing. |
 
